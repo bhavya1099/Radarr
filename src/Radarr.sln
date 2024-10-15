@@ -70,6 +70,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		..\.editorconfig = ..\.editorconfig
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceInstall.Run", "ServiceHelpers\ServiceInstall.Test\ServiceInstall.Run\ServiceInstall.Run.csproj", "{A896F5DD-1D74-4D72-B729-DB58B4C991BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Posix = Debug|Posix
@@ -276,6 +278,14 @@ Global
 		{0E2B067C-4A97-430C-8767-D19ACB09A63A}.Release|Posix.Build.0 = Release|Any CPU
 		{0E2B067C-4A97-430C-8767-D19ACB09A63A}.Release|Windows.ActiveCfg = Release|Any CPU
 		{0E2B067C-4A97-430C-8767-D19ACB09A63A}.Release|Windows.Build.0 = Release|Any CPU
+		{A896F5DD-1D74-4D72-B729-DB58B4C991BA}.Debug|Posix.ActiveCfg = Debug|Any CPU
+		{A896F5DD-1D74-4D72-B729-DB58B4C991BA}.Debug|Posix.Build.0 = Debug|Any CPU
+		{A896F5DD-1D74-4D72-B729-DB58B4C991BA}.Debug|Windows.ActiveCfg = Debug|Any CPU
+		{A896F5DD-1D74-4D72-B729-DB58B4C991BA}.Debug|Windows.Build.0 = Debug|Any CPU
+		{A896F5DD-1D74-4D72-B729-DB58B4C991BA}.Release|Posix.ActiveCfg = Release|Any CPU
+		{A896F5DD-1D74-4D72-B729-DB58B4C991BA}.Release|Posix.Build.0 = Release|Any CPU
+		{A896F5DD-1D74-4D72-B729-DB58B4C991BA}.Release|Windows.ActiveCfg = Release|Any CPU
+		{A896F5DD-1D74-4D72-B729-DB58B4C991BA}.Release|Windows.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
